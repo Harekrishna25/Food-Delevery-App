@@ -1,0 +1,29 @@
+.order-placed{
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.order-placed img{
+    width: 80px;
+}
+.order-placed h2{
+    color: green;
+    margin-top: 20px;
+}
+.order-placed p{
+    color: #747474;
+    margin-top: 5px;
+}
+.order-placed button{
+    font-size: 15px;
+    padding: 10px 30px;
+    border: none;
+    background-color: tomato;
+    color: white;
+    border-radius: 4px;
+    margin-top: 20px;
+    cursor: pointer;
+}
